@@ -1,0 +1,8 @@
+Troubleshooting cloning errors
+When cloning a repository it's possible that you might encounter some errors.
+
+If you're unable to clone a repository, check that:
+
+You can connect using HTTPS. For more information, see "HTTPS cloning errors."
+You have permission to access the repository you want to clone. For more information, see "Error: Repository not found."
+The default branch you want to clone still exists. For more information, see have permission to access the repository you want to clone. For more information, see "Error: Remote HEAD refers to nonexistent ref, unable to checkout."
